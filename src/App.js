@@ -1,10 +1,10 @@
-import logo from "./logo.svg";
 import "./App.css";
+import NumberVerify from "./NumberVerify";
 
 function App() {
   return (
     <div>
-      <h2>Hello otp</h2>
+      <NumberVerify />
     </div>
   );
 }
